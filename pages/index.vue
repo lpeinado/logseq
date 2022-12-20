@@ -1,13 +1,6 @@
 <template>
-  <div>
-
-  </div>
+  <main>
+    <TheHero> A Nuxt Content v2 Blog with Bulma </TheHero>
+    <BlogPostList />
+  </main>
 </template>
-
-<script setup>
-
-</script>
-
-<style lang="scss" scoped>
-
-</style>
