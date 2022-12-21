@@ -1,4 +1,4 @@
-title:: Advanced English
+title: Advanced English
 
 - Here I'll put links to videos or texts about advanced English words, expressions, etc.
 	- [This is the Youtube list](https://www.youtube.com/playlist?list=PLp6tEvObvFFPtGIK97KAOsa34CCvrKXJ3) for different interesting videos

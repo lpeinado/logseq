@@ -14,15 +14,16 @@
             <section class="blog-post-card card article">
               <div class="media">
                 <div class="media-content has-text-centered">
+                
                   <h3 class="title article-title has-text-weight-bold">
                     {{ post.title }}
                   </h3>
-                  <BlogPostMeta author="@bruno" date="2022-06-01" />
+                  <BlogPostMeta :author="post.author" />
                 </div>
               </div>
               <div class="card-content">
                 <div class="content article-body is-size-5">
-                  <pre>{{  post.excerpt }}</pre>
+                  {{  post.description }}
                 </div>
               </div>
             </section>
