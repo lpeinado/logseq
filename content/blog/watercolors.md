@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Pàgina inicial del "projecte" aquarel·les.
 - #card Qué és un projecte?
   card-last-interval:: 64.01

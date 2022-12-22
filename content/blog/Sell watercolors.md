@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 title:: Sell watercolors
 
 - Page dedicated so sell watercolors once they are done with some quality

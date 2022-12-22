@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - To put a value on a css pseudo-element #card
   card-last-interval:: -1
   card-repeats:: 1

@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 title:: body_vocabulary
 
 - Armpits #card

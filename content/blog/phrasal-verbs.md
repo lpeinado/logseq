@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Morning routine phrasal-verbs
 	- Roll out of bed (Roll au-da bed): #card
 	  card-last-interval:: 33.64

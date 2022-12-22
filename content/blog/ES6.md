@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - [[16th June 2022]] I found this [article](https://dev.to/azure/modern-javascript-10-things-you-should-be-using-starting-today-1adm) . Let's create some flashcards with it
 	- Spread operator #card
 	  card-last-interval:: 54.59

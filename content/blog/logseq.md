@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - A video to learn to use Logseq as task manager: https://www.youtube.com/watch?v=4WnZ293Ff4I&ab_channel=AryanSawhney
 - When scheduling todos in Logseq the 1d means it repeats ever day.
 - TODO go to Discord and join the data log channel for inspiration #backlog

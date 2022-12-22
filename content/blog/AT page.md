@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Horizonte temporal correcto en cada caso
 - Tendencias más largas de lo que pensamos (sesgos)
 - Escala log, psicología de masas, asimetría subidas y bajadas

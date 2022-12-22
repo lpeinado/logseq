@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Far more ... than (example): #card #english
   card-last-interval:: 19.01
   card-repeats:: 4

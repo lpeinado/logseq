@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - **YASEEN**
 - Hubble team. February first. I don't know about Hubble! (Anna, Anastasia, Dani, .... big team) TBD: what they do https://docs.google.com/spreadsheets/d/13E7bwecctZtKLzyV1NLHWxy_HKO4C3YZyHK1yaaMGtE/edit#gid=0
 - https://docs.google.com/document/d/1lvu1Z8HtadjlEzu9DymmetlFV5M-_omJmlQRPdz0zWo/edit#heading=h.lhyrvcbr4he9

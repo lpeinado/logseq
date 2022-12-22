@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - h1.Lesson 1
 -
 - Nuxt3 is a framework based on vue

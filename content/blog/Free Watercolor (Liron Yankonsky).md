@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 title:: Free Watercolor (Liron Yankonsky)
 
 	- The link to the school is [here](https://freewatercolor.com/ffw-course-student-area)

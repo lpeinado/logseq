@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - My courses can be found here [Courses Dashboard](https://learn.reactnativeschool.com/courses/enrolled)
 - # React Native Basics: Build a Currency Converter
 	- We are gonna use Expo, that allows you to get RN working with a simple npm package.

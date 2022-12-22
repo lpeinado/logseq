@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - git status, git add, git commit -m, git push, git clone repo
 - New branch: git checkout -b my_branch
 - git branch displays the branch you are in

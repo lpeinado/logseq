@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - docker -v
 - docker pull mongo (from docker hub)
 - docker images | grep mongo

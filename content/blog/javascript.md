@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Here's a nice concise page about Destructuring (different cases)
 	- https://www.reactnative.express/javascript/features/destructuring
 	- TODO create flashcards for destructuring

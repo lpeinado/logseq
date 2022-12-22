@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Preguntas para Dani
 	- Usas yarn o npm?
 	- TODO mirar gulp para hacer build de JS y css

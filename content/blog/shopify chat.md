@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 ## Shopify Support
 - Hi, we need to customize our site's Checkout page, we want to be able to do modifications that the regular settings -> checkout -> customize checkout doesn't have. 
   The checkout template code isn't in our codebase as well.

@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Brainstorming: A Quixote and Sanx characters, hitchhiking and getting a tartana driven by a pirate.
 	- They travel and find syrens and wind mills as well
 	- They want to reach a wonderland beach which landscape is like the flag bands green, blue and red.

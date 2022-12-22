@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - We use the setup() method run before any hook.
 - We use reactive from Vue in order to put there the old "data" object and make it reactive.
 - We call data as (reactive) state and we put state.whatever in the template

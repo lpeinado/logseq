@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - pwd, cd, ls
 - whoami
 - mkdir another folder

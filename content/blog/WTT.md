@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Compres
 	- Només es compra si SP500 està per sobre de la MM50 (10 SETMANES)
 	- Accions en màxims de 20 setmanes (5 mesos)

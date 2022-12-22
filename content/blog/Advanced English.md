@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 title: Advanced English
 
 - Here I'll put links to videos or texts about advanced English words, expressions, etc.

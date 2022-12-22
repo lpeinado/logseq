@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Here we have a page to start working on it #kickstart_reactnative
 - React native has some **core components**:
   collapsed:: true

@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 title:: kickstart_reactnative
 
 - Navigate to the folder

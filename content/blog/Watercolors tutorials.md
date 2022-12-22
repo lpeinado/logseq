@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - DONE https://freewatercolor.com/ffw-course-student-area/
 - DOING Tutorial normal:
   :LOGBOOK:

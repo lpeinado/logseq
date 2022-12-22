@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Javascript const reserved word is for: #card #javascript
   card-last-interval:: 30.32
   card-repeats:: 4

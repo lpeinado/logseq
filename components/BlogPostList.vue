@@ -10,7 +10,7 @@
     <section class="articles">
       <div class="column is-8 is-offset-2">
         <div class="card article" v-for="post in blogPostList" :key="post.title"> 
-          <NuxtLink to="/blog/my-second-blog-post">
+          <NuxtLink :to="post._path">
             <section class="blog-post-card card article">
               <div class="media">
                 <div class="media-content has-text-centered">

@@ -1,3 +1,10 @@
+---
+
+description: Initial description.
+
+author: "@Luigi"
+---
+
 - Ask sandy about
 	- Hugo installation as usuall feature/WS-284
 	- Jira board method - Daily standup 4H 15' CET
