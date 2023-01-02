@@ -24,7 +24,7 @@ useHead({
 
 <template>
   <TheNavbar />
-  <div>
+  <div class="content-container">
     <NuxtPage />
   </div>
 </template>
@@ -99,5 +99,9 @@ div.column.is-8:first-child {
 }
 .promo-block .container {
   margin: 1rem 5rem;
+}
+.content-container{
+  position: relative;
+  top:180px;
 }
 </style>
