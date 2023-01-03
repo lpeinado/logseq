@@ -29,7 +29,9 @@ useHead({
   </div>
 </template>
 
-<style>
+
+<style lang="scss">
+@import '/assets/styles/global.scss';xº
 html,
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -101,7 +103,10 @@ div.column.is-8:first-child {
   margin: 1rem 5rem;
 }
 .content-container{
-  position: relative;
-  top:180px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: calc(100vh - 56px);
 }
 </style>
