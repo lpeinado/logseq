@@ -31,7 +31,7 @@ useHead({
 
 
 <style lang="scss">
-@import '/assets/styles/global.scss';xº
+@import '/assets/styles/global.scss';
 html,
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
